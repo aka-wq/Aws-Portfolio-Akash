@@ -9,7 +9,7 @@ Due Date: 13th December 2024 <br>
 </p>
 
 ___
-# [AWS Project 1](https://pkarthik-ops.github.io/AWS-Project-1/)
+# [AWS Project 1](https://aka-wq.github.io/AWS--Project-1---Akash/)
 # Project Description: Implementation and Analysis of Animal Control Data
 * This project will include establishing a full-fledged data solution architecture leveraging AWS services to the rate of animals Lost in the year 2024 and include the feature of an Average count of Lost animals apart from the existing architectural support. 
 ## Project Title: AWS Data Analytic Platform for the City of Vancouver - Part 1
