@@ -44,7 +44,7 @@ Tools and Technologies:
 - Documentation covering all architectural decisions, security measures, and monitoring strategies.
 
 ___
-# [AWS Project 2](https://pkarthik-ops.github.io/AWS-Project-2/)
+# [AWS Project 2](https://aka-wq.github.io/AWS-Project-2---Akash/)
 # Project Description: Data Protection, Governance, and Monitoring
 * This project will include establishing a full-fledged data solution architecture leveraging AWS services to the rate of animals Lost in the year 2024 and include the feature of an Average count of Lost animals apart from the existing architectural support.
 ## Project Title: AWS Data Analytic Platform for the City of Vancouver - Part 2
